@@ -21,7 +21,6 @@
             "MikeTralala\\GitLabApiBundle" : ""
         }
     },
-    "target-dir" : "MikeTralala/GitLabApiBundle",
     "repositories" : [{
     }],
     "extra" : {
