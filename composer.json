@@ -1,0 +1,32 @@
+{
+    "name" : "MikeTralala/GitLabApiBundle",
+    "description" : "An Symfony implementation for GitLab Api",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Mike Tralala",
+        "email" : "mike@miketralala.com"
+    }],
+    "keywords" : [
+        "GitLab",
+        "Api",
+        "Symfony",
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "MikeTralala\\GitLabApiBundle" : ""
+        }
+    },
+    "target-dir" : "MikeTralala/GitLabApiBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "master"
+        }
+    }
+}
